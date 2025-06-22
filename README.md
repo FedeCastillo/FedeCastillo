@@ -1,4 +1,4 @@
-!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
+
 
   <!-- Welcome -->
 <h1  align="center">Hi there im Federico! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
